@@ -1,4 +1,5 @@
-<h2>Hi there, I'm Jyoti 👋</h2>
+<h2 align="center">Hi there, I'm Jyoti 👋</h2>
+<p align="center">Aspiring Full Stack Developer | BCA Student | Tech Explorer</p>
 
 🎓 I’m a BCA student passionate about learning and building in tech.  
 💻 Currently learning Full Stack Web Development — starting with HTML, CSS, and JavaScript.  
