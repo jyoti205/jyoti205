@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:00b4d8&height=200&section=header&text=Hey%20There!%20I'm%20Jyoti%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20BCA%20Student%20%7C%20Building%20the%20Web&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:00b4d8&height=120&section=header" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Frontend+Developer+in+the+Making+%F0%9F%9A%80;React.js+%7C+HTML+%7C+CSS+%7C+JavaScript;Building+cool+things+one+component+at+a+time;BCA+Student+%7C+Patna%2C+Bihar+%F0%9F%87%AE%F0%9F%87%B3;Open+to+collaborations+%26+projects!)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00ff88,100:00b4d8&height=90&text=Hey!%20I'm%20Jyoti%20👋&fontSize=45&fontColor=00ff88&animation=fadeIn" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Frontend+Developer+in+the+Making+🚀;React.js+%7C+HTML+%7C+CSS+%7C+JavaScript;Building+cool+things+one+component+at+a+time;BCA+Student+%7C+Patna%2C+Bihar+🇮🇳;Open+to+collaborations+%26+projects!)](https://git.io/typing-svg)
 
 </div>
 
@@ -49,14 +57,14 @@ const jyoti = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00b4d8&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jyoti205&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00b4d8&text_color=ffffff&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti205&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" height="165"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=00B4D8&currStreakLabel=00FF88)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jyoti205&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=00B4D8&currStreakLabel=00FF88)](https://git.io/streak-stats)
 
 </div>
 
@@ -66,7 +74,7 @@ const jyoti = {
 
 <div align="center">
 
-[![PatchCity](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PatchCity&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00b4d8)](https://github.com/YOUR_USERNAME/PatchCity)
+[![PatchCity](https://github-readme-stats.vercel.app/api/pin/?username=jyoti205&repo=PatchCity&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&icon_color=00b4d8)](https://github.com/jyoti205/PatchCity)
 
 </div>
 
@@ -79,9 +87,9 @@ const jyoti = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jyoti205/jyoti205/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jyoti205/jyoti205/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jyoti205/jyoti205/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -92,9 +100,9 @@ const jyoti = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jyoti-p25)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jyoti205)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](#)
 
 </div>
 
@@ -102,7 +110,7 @@ const jyoti = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=jyoti205&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:00ff88&height=120&section=footer" width="100%"/>
 
