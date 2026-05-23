@@ -1,6 +1,6 @@
 # Hi there, I'm Jyoti 👋
 
-🎓 BCA Student | Patna, Bihar  
+🎓 BCA Student 
 💻 Frontend Developer in the Making  
 🌱 Currently learning React.js  
 🎨 I love building clean and creative UIs  
