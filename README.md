@@ -10,7 +10,7 @@
 
 ---
 
-##  About Me
+## 👩‍💻 About Me
 
 ```javascript
 const jyoti = {
@@ -26,7 +26,7 @@ const jyoti = {
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -42,12 +42,13 @@ const jyoti = {
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jyoti205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti205&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=jyoti205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jyoti205&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" />
 
 </div>
 
@@ -76,7 +77,7 @@ const jyoti = {
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -92,7 +93,7 @@ const jyoti = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
-⭐️ *Thanks for visiting my profile! Keep building, keep growing!* 🌱
+ *Thanks for visiting my profile! Keep building, keep growing!* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jyoti205&color=00d9ff&style=flat-square&label=Profile+Views)
 
