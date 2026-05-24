@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jyoti+%F0%9F%91%8B;BCA+Student+%7C+Frontend+Developer;Learning+React+%26+Building+Cool+UIs;Future+Full-Stack+MERN+Dev+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Matrix / Coding GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="500" />
+<img src="(https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) />
 
 </div>
 
