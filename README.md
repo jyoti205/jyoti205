@@ -3,14 +3,14 @@
 <!-- Typing SVG Banner -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jyoti+%F0%9F%91%8B;BCA+Student+%7C+Frontend+Developer;Learning+React+%26+Building+Cool+UIs;Future+Full-Stack+MERN+Dev+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- Matrix / Coding GIF -->
-<img src="(https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) />
+<!-- Pixel Art Developer Room GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 ```javascript
 const jyoti = {
@@ -26,7 +26,7 @@ const jyoti = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -42,7 +42,7 @@ const jyoti = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -59,7 +59,7 @@ const jyoti = {
 
 ---
 
-## 🌱 Open Source & Contributions
+##  Open Source & Contributions
 
 <div align="center">
 
@@ -67,10 +67,10 @@ const jyoti = {
 
 </div>
 
-- 🌟 I believe in **learning in public** and contributing to the dev community
-- 🔍 Currently exploring open source projects to contribute to
-- 🤝 Open to **collaborations** on frontend / beginner-friendly projects
-- 📖 Sharing my learning journey one commit at a time
+-  I believe in **learning in public** and contributing to the dev community
+-  Currently exploring open source projects to contribute to
+-  Open to **collaborations** on frontend / beginner-friendly projects
+-  Sharing my learning journey one commit at a time
 
 > *"The best way to learn is to build, break, and build again."*
 
