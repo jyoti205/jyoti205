@@ -1,31 +1,99 @@
-# Hi there, I'm Jyoti 👋
+<div align="center">
 
-🎓 BCA Student 
-💻 Frontend Developer in the Making  
-🌱 Currently learning React.js  
-🎨 I love building clean and creative UIs  
-🚀 Goal: Become a Full-Stack MERN Developer  
+<!-- Typing SVG Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jyoti+%F0%9F%91%8B;BCA+Student+%7C+Frontend+Developer;Learning+React+%26+Building+Cool+UIs;Future+Full-Stack+MERN+Dev+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<!-- Matrix / Coding GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="500" />
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+```javascript
+const jyoti = {
+  name: "Jyoti",
+  role: "BCA Student | Frontend Developer in the Making",
+  location: "Patna, Bihar 🇮🇳",
+  currentlyLearning: ["React.js", "Vite", "MERN Stack"],
+  goal: "Become a Full-Stack MERN Developer 🚀",
+  passion: "Building clean, creative & meaningful UIs",
+  funFact: "I debug with console.log and no regrets 😄"
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyoti205&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jyoti205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti205&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jyoti205&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🌱 Open Source & Contributions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jyoti-p25)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jyoti205)
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+
+</div>
+
+- 🌟 I believe in **learning in public** and contributing to the dev community
+- 🔍 Currently exploring open source projects to contribute to
+- 🤝 Open to **collaborations** on frontend / beginner-friendly projects
+- 📖 Sharing my learning journey one commit at a time
+
+> *"The best way to learn is to build, break, and build again."*
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jyoti-p25)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jyoti205)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jyoti785888@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
+⭐️ *Thanks for visiting my profile! Keep building, keep growing!* 🌱
+
+![Profile Views](https://komarev.com/ghpvc/?username=jyoti205&color=00d9ff&style=flat-square&label=Profile+Views)
+
+</div>
