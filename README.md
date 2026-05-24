@@ -25,7 +25,13 @@ const jyoti = {
 ```
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="80" />
+
+<img src="https://user-images.githubusercontent.com/74038190/216649433-b402ff1f-2ebd-4d3e-8c43-6ddfbf4c1b30.gif" width="180" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/216649433-b402ff1f-2ebd-4d3e-8c43-6ddfbf4c1b30.gif" width="180" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/216649433-b402ff1f-2ebd-4d3e-8c43-6ddfbf4c1b30.gif" width="180" />
+
 </div>
 
 ---
