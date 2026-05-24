@@ -16,7 +16,7 @@
 const jyoti = {
   name: "Jyoti",
   role: "BCA Student | Frontend Developer in the Making",
-  location: "Patna, Bihar 🇮🇳",
+  location: "Jharkhand",
   currentlyLearning: ["React.js", "Vite", "MERN Stack"],
   goal: "Become a Full-Stack MERN Developer 🚀",
   passion: "Building clean, creative & meaningful UIs",
@@ -26,11 +26,11 @@ const jyoti = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="220" />
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="30%" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="220" />
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="30%" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="220" />
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="30%" />
 
 </div>
 
